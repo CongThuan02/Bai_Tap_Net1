@@ -16,5 +16,27 @@ namespace Vidu_4._3._3
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTinh_Click(object sender, EventArgs e)
+        {
+            int n, i;
+            Int32 gt = 1;
+            n= int.Parse(txtN.Text);
+            for(i=1; i<=n; i++)
+            {
+                gt = gt * i;
+                txtGt.Text = gt.ToString();
+            }
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

@@ -7,7 +7,7 @@
     <ProjectGuid>{60373713-C81B-4463-9C1A-C43DE6D5E2BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Vidu_4._3._3</RootNamespace>
-    <AssemblyName>Vidu_4._3._3</AssemblyName>
+    <AssemblyName>Vidu_4.3.3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
