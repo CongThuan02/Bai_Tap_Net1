@@ -1,0 +1,11 @@
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\bin\Debug\Chuong4_Bai2.exe.config
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\bin\Debug\Chuong4_Bai2.exe
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\bin\Debug\Chuong4_Bai2.pdb
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.csproj.AssemblyReference.cache
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.csproj.SuggestedBindingRedirects.cache
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.Form1.resources
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.Properties.Resources.resources
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.csproj.GenerateResource.cache
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.csproj.CoreCompileInputs.cache
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.exe
+G:\Bai_Tap_Net1\Chuong4\Chuong4_Bai2\obj\Debug\Chuong4_Bai2.pdb
