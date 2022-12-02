@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Chuong4_Bai1
+namespace Chuong4_bai1
 {
     internal static class Program
     {

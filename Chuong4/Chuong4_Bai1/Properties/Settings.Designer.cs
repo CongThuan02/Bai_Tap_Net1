@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Chuong4_Bai1.Properties
+namespace Chuong4_bai1.Properties
 {
 
 
