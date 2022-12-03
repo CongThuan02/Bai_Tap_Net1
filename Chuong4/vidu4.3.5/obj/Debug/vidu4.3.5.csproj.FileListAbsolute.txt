@@ -1,0 +1,11 @@
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4.3.5.csproj.AssemblyReference.cache
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4.3.5.csproj.SuggestedBindingRedirects.cache
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4._3._5.Form1.resources
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4._3._5.Properties.Resources.resources
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4.3.5.csproj.GenerateResource.cache
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4.3.5.csproj.CoreCompileInputs.cache
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\bin\Debug\vidu4.3.5.exe.config
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\bin\Debug\vidu4.3.5.exe
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\bin\Debug\vidu4.3.5.pdb
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4.3.5.exe
+G:\Bai_Tap_Net1\Chuong4\vidu4.3.5\obj\Debug\vidu4.3.5.pdb

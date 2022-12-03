@@ -31,5 +31,10 @@ namespace vidu_4._3._4
         {
             Close();
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
