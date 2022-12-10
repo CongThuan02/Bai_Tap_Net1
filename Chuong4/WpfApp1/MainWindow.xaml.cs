@@ -30,9 +30,20 @@ namespace WpfApp1
 
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+     
+
+        private void button1_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("xin cào các bạn");
+            int soLuong, donGia;
+            soLuong= int.Parse(textBox2.Text);
+            donGia= int.Parse(textBox3.Text);
+            int thanhTien = soLuong * donGia;
+            textBox4.Text= thanhTien.ToString();
+        }
+     
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
         }
     }
 }
